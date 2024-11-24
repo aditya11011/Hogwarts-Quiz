@@ -1,6 +1,4 @@
 import React from "react";
-const[answers,setAnswers]=useState([]);
-const[element,setElement]=useState('');
 
 export default function Question({ question, options, onAnswer }) {
   return (
