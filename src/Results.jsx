@@ -16,7 +16,8 @@ export default  function Results({ element }) {
       <p >
        <div style={{fontSize:'30px',color:'orange'}}> <strong>{Name}</strong>, your element is: {element}</div>
       </p>
-     <div style={{position:'relative',marginRight:'10px'}}><img src={imag} /></div>
+      <div style={{fontSize:'20px',color:'pink'}}>, And you belong to</div>
+     <img src={imag} />
         <p>No artwork found.</p>
       
     </div>
