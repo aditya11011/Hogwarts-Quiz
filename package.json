@@ -9,8 +9,8 @@
     "lint": "eslint .",
      "predeploy": "npm run build",
   "deploy": "gh-pages -d build",
-    "preview": "vite preview",
-    "homepage":"https://aditya11011.github.io/Hogwarts-Quiz"
+    "preview": "vite preview"
+    
   },
   "dependencies": {
     "react": "^18.3.1",
