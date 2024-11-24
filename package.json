@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://aditya11011.github.io/HogwartsQuiz/",
+  "homepage": "https://aditya11011.github.io/Hogwarts-Quiz/",
 
   "scripts": {
     "dev": "vite",

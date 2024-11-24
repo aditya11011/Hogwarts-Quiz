@@ -4,5 +4,5 @@ import react from '@vitejs/plugin-react';
 
 export default defineConfig({
   plugins: [react()],
-  base: '/HogwartsQuiz/' // Replace <REPO-NAME> with your GitHub repository name
+  base: '/Hogwarts-Quiz/' // Replace <REPO-NAME> with your GitHub repository name
 });
